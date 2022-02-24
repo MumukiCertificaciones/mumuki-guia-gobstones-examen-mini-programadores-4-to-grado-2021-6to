@@ -1,0 +1,1 @@
+La familia :couple: son las bolitas `azules`, el perro :dog: es la `negra`, la casita :house: es la `roja` y el auto :car: son las `4 verdes`.

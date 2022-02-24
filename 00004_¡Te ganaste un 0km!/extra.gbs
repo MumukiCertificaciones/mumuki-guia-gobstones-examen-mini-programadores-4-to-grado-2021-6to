@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="procedures_defreturnsimple" id="pN5vxBwvl|^$ma||7_x/" x="9" y="3"><mutation statements="false"></mutation><field name="NAME">ganaste un auto</field><value name="RETURN"><block type="BoolSelector" id="JSqH^dwt5|0!unar6$g/"><field name="BoolDropdown">True</field></block></value></block></xml>

@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:GanarPerro
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:Mover
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: GanarPerro
+  inspection: UsesIf

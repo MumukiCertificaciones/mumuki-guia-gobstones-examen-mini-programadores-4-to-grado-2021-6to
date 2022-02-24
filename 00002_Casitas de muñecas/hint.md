@@ -1,0 +1,1 @@
+Recordá que, cuando repetís algo moviéndote, puede haber un caso borde en el que no te tengas que mover más.

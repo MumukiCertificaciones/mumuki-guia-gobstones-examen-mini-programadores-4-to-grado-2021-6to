@@ -1,0 +1,3 @@
+Vamos a jugar a un juego parecido al Juego de la Vida :smile:. Usaremos las bolitas _rojas_ :red_circle: para las _casitas_ :house:, las _negras_ :black_circle: para los _perros_ :dog:, las _azules_ :large_blue_circle: para las _personas_ :couple: y las _verdes_ para representar _autos_ :car: o _puntos ganados_. 
+
+Pero no te preocupes en memorizar esto, porque te lo recordaremos en cada ejercicio. ¡Esperamos que te diviertas!

@@ -1,0 +1,1 @@
+El auto tiene 4 ruedas; por eso lo representamos con 4 bolitas verdes. :relieved:

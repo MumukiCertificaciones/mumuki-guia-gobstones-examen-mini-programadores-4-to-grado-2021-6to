@@ -1,0 +1,1 @@
+Pensá en qué dirección moverte para ir hacia el final de la fila, y en qué dirección tendrás que volver. Hay un procedimiento de Gobstones para ir al borde Oeste fácilmente. :wink:

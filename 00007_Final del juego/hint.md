@@ -1,0 +1,1 @@
+Si tenemos 8 personas (bolitas azules) y 4 perros (bolitas negras), la suma de puntos da 12, así que pondremos 12 bolitas verdes. Si tuviéramos solo 2 perros y ninguna persona, el puntaje dará 2.

@@ -1,0 +1,1 @@
+Recordá que la casita es la bolita roja. Primero tendrás que moverte por el tablero hasta ese casillero. 

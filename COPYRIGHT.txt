@@ -1,0 +1,5 @@
+Copyright NadiaFinzi and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumukicertificaciones/mumuki-guia-gobstones-examen-mini-programadores-4-to-grado-2021-6to and the AUTHORS.txt file.
