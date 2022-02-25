@@ -1,8 +1,9 @@
 ---
-name: Examen Mini Programadores - 4to grado
+name: Examen Mini Programadores - 6to grado
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
